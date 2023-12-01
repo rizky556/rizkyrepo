@@ -1,0 +1,15 @@
+POST /rtsx/servlet/doc/payments HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: https://10.224.19.131:4441/rtsx/view/accounts/own
+x-requested-with: XMLHttpRequest
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Host: 10.224.19.131:4441
+Content-Length: 827
+Connection: close
+Cache-Control: no-cache
+Cookie: login=pentest4; JSESSIONID=1A498D6DFE407387EE78AEEA7A45C6F9; mfeijovi7pcuml9mjhojph4lj8=$1$1A498D6DFE407387EE78AEEA7A45C6F9$spHr/6/dpmGrlEHy8Q6Oc.; choosenCert=
+
+start=0&limit=25&bq=%7Bc%3A%5B%7Bc%3A%5B%7Bl%3A'STATUS'%2Co%3A'%3D%3D'%2Cr%3A'SETL'%2Ct%3A'string'%7D%2C%7Ba%3Afalse%2Cl%3A'STATUS'%2Co%3A'%3D%3D'%2Cr%3A'TRFC'%2Ct%3A'string'%7D%5D%7D%2C%7Ba%3Atrue%2Cl%3A'CREDITED_ACCOUNT'%2Co%3A'%3D%3D'%2Cr%3A'522950000990'%2Ct%3A'string'%7D%5D%7D&vd=01%2F12%2F2023&fld=ID&fld=MSG_TYPE&fld=AMOUNT&fld=CREDITED_ACCOUNT&fld=CREDITED_PARTICIPANT&fld=CURRENCY&fld=DEBITED_ACCOUNT&fld=DEBITED_PARTICIPANT&fld=DELETED&fld=MODIFIED&fld=DOC_STEP&fld=SENT&fld=PRIORITY&fld=TRANS_TYPE_CODE&fld=TRN&fld=VALUE_DATE&fld=ACTUAL_VD&fld=OPERATION_TYPE&fld=STATUS&fld=STATUS_DETAILS&fld=PROC_TIME&fld=OUTGOING&fld=MIR&fld=BLOCK4&fld=PARENT&fld=MSG_ID&fld=EDITED_BY&fld=RELATED_TRN&fld=PAYMENT_TYPE&fld=TOTAL&fld=*&mfeijovi7pcuml9mjhojph4lj8=%241%241A498D6DFE407387EE78AEEA7A45C6F9%24spHr%2F6%2FdpmGrlEHy8Q6Oc.
