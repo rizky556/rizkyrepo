@@ -1,0 +1,15 @@
+POST /rtsx/servlet/sendtextmessage HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: https://10.224.19.131:4441/rtsx/
+x-requested-with: XMLHttpRequest
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Host: 10.224.19.131:4441
+Content-Length: 150
+Connection: close
+Cache-Control: no-cache
+Cookie: login=pentest4; JSESSIONID=1A498D6DFE407387EE78AEEA7A45C6F9; mfeijovi7pcuml9mjhojph4lj8=$1$1A498D6DFE407387EE78AEEA7A45C6F9$spHr/6/dpmGrlEHy8Q6Oc.; choosenCert=
+
+bpcn=on&receiver=BICNIDJAR002&text=TESTING%20INI%20SIH&mfeijovi7pcuml9mjhojph4lj8=%241%241A498D6DFE407387EE78AEEA7A45C6F9%24spHr%2F6%2FdpmGrlEHy8Q6Oc.
